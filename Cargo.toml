@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-extended-verification-module"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS extended-verification-module component - security"
+
+[lib]
+name = "extended_verification_module"
+path = "src/lib.rs"
