@@ -3,7 +3,7 @@ name = "SigmaOS-extended-verification-module"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "extended-verification-module component"
+description = "Extended Verification Module"
 upstream = []
 
 [contract]
